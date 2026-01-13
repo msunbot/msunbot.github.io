@@ -3,8 +3,6 @@ layout: default
 title: Michelle Sun
 ---
 
-# Michelle Sun
-
 **Building infrastructure and frameworks for confident AI deployment. Former operator turned technical founder.**
 
 ---
