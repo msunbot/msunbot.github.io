@@ -1,0 +1,18 @@
+title: Michelle Sun
+description: Building infrastructure for confident AI deployment
+theme: minima
+show_excerpts: false
+
+# Optional: Uncomment to customize further
+# author: Michelle Sun
+# email: michelle@conceptops.ai
+
+# Minima theme settings
+minima:
+  skin: classic
+  
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
