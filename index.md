@@ -56,16 +56,16 @@ Archive: [michellebuilds.substack.com](https://michellebuilds.substack.com/)
 
 I spent a decade building and scaling First Code Academy (edtech, teaching kids to code) from zero to ~$3M ARR. Bootstrapped, then angel-funded. Led all functions: product, growth, operations, hiring, and systems design for distributed teams of 200+.
 
-Before that: Goldman Sachs TMT analyst with private equity screening experience.
+Before that: Goldman Sachs TMT analyst with private equity investment experience.
 
 I've advised MIT CSAIL on App Inventor commercialization and worked briefly in crypto infrastructure (Solana ecosystem) before returning to AI.
 
-I'm based in San Francisco. I have a toddler and another on the way.
+I'm based in San Francisco.
 
 ---
 
 ## Contact
 
-**Email:** michelle@conceptops.ai  
+**Email:** msunbot@gmail.com
 **GitHub:** [github.com/msunbot](https://github.com/msunbot)  
 **Writing:** [michellebuilds.substack.com](https://michellebuilds.substack.com/)
